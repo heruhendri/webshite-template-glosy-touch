@@ -44,7 +44,7 @@ webshite-template-glosy-touch/
 
 ## 🖼️ Cuplikan Desain
 
-*Tambahkan screenshot desain di sini untuk memperlihatkan tampilan halaman.*
+![  SCRENSHOOT ](https://github.com/heruhendri/webshite-template-glosy-touch/blob/master/images/ss.png?raw=true)
 
 ## 📝 Lisensi
 
